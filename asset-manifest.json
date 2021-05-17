@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smart-raptor/static/css/main.5a4e28cd.chunk.css",
+    "main.js": "/smart-raptor/static/js/main.24899790.chunk.js",
+    "main.js.map": "/smart-raptor/static/js/main.24899790.chunk.js.map",
+    "runtime-main.js": "/smart-raptor/static/js/runtime-main.fe368cd3.js",
+    "runtime-main.js.map": "/smart-raptor/static/js/runtime-main.fe368cd3.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/smart-raptor/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.650cabb6.chunk.js": "/smart-raptor/static/js/2.650cabb6.chunk.js",
+    "static/js/2.650cabb6.chunk.js.map": "/smart-raptor/static/js/2.650cabb6.chunk.js.map",
+    "index.html": "/smart-raptor/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/smart-raptor/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.5a4e28cd.chunk.css.map": "/smart-raptor/static/css/main.5a4e28cd.chunk.css.map",
+    "static/js/2.650cabb6.chunk.js.LICENSE.txt": "/smart-raptor/static/js/2.650cabb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe368cd3.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.650cabb6.chunk.js",
+    "static/css/main.5a4e28cd.chunk.css",
+    "static/js/main.24899790.chunk.js"
+  ]
+}
