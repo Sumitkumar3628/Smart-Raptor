@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(89deg, #11ebf3 0%, #7c6ebd 100%); /* w3c */
+}
+
+button {
+  cursor: pointer;
+}
+.smart{
+	font-family: 'Frijole', cursive;
+}
